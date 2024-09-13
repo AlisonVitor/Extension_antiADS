@@ -1,0 +1,5 @@
+/* Estilos para esconder elementos com base em seletores CSS */
+.advertisement, .ad-banner, .sponsored, .promoted {
+    display: none !important;
+  }
+  
